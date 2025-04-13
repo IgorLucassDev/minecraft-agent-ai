@@ -24,6 +24,12 @@ Edite o arquivo main.js para definir:
 
 * version: Versão do Minecraft (ex: '1.20.1')
 
+### Configurando Gemini
+
+* Renomeie o arquivo *.env-exemple para .env e adicione sua API_KEY do Gemini
+
+Para usar a API do Gemini, obtenha uma chave no [Google AI Studio](https://ai.google.dev/gemini-api/docs/api-key).
+
 ### Execução
 ```bash
 node main.js
